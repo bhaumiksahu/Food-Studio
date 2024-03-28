@@ -445,3 +445,13 @@ span{
 .maincart button:hover{
   color: rgb(95, 95, 95);
 }
+.del {
+    background-color: black;
+    border: none;
+    color: aliceblue;
+    padding: 4px;
+    font-size: 9px;
+    border-radius: 4px;
+    margin-top: 1rem;
+    cursor: pointer;
+}

@@ -27,7 +27,7 @@ const CartList=(props)=>{
                   </div>  
                      
                    ))} 
-                   <button
+                   <button className="del"
                      onClick={()=>handleremove()}>Remove last one</button>    
                 </div>            
 
